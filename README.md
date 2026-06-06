@@ -1,87 +1,212 @@
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm Gayathri V</h1>
+<h1>👋 Hi, I'm Gayathri V</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Python+%7C+Java+%7C+Backend+Engineer;REST+APIs+%7C+Distributed+Systems;AI+%2F+ML+Enthusiast+%7C+MCA+Graduate" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=%24+whoami+%3A%3A+Gayathri+V;%24+cat+skills.txt+%7C+grep+backend;+%E2%86%92+Python+%7C+Java+%7C+Django+%7C+FastAPI;%24+./deploy.sh+--env+production;+%E2%86%92+4+apps+shipped+%E2%9C%94;%24+python+train.py+--model+YOLO;+%E2%86%92+94%25+accuracy+%7C+Best+Paper+2026+%F0%9F%8F%86" alt="Typing SVG" />
 
-<p align="center">
-  📍 Thanjavur, India &nbsp;•&nbsp; MCA Graduate (CGPA 8.36) &nbsp;•&nbsp; Open to opportunities
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gayathri-v14"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:gayathrisaraswathi14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Gayathri14-07&style=for-the-badge&color=blue" alt="Profile views"/>
-</p>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00FF41?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Based%20In-Thanjavur%2C%20India-00b4d8?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/MCA-CGPA%208.36%20%7C%20A%2B-9b5de5?style=for-the-badge&logo=academia&logoColor=white&labelColor=0d1117"/>
 
----
+<br/><br/>
 
-## 🏆 Highlights
+<a href="https://www.linkedin.com/in/gayathri-v14"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="mailto:gayathrisaraswathi14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://github.com/Gayathri14-07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
+<img src="https://komarev.com/ghpvc/?username=Gayathri14-07&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&labelColor=0d1117"/>
 
-🥇 **Best Paper Award** — ICAISDT 2026 International AI Conference  
-🛠️ **India AI Impact Buildathon 2026** — GUVI & HCL  
-📊 **Deloitte Australia Data Analytics Simulation** — Forage  
-🚀 **4 Production-grade apps** deployed from scratch  
-🏆 **1st Prize** — Webfest'25, Holy Cross College  
+</div>
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**Backend & APIs**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
-
-**AI / ML**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-**Databases & Cloud**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## `~/skills` 🛠
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gayathri14-07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri14-07&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gayathri14-07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+```python
+class GayathriV:
+    languages   = ["Python", "Java", "JavaScript", "SQL", "C"]
+    backend     = ["Django", "FastAPI", "Node.js", "REST APIs"]
+    ai_ml       = ["PyTorch", "TensorFlow", "YOLO", "OpenCV", "Scikit-learn"]
+    databases   = ["PostgreSQL", "MongoDB", "MySQL"]
+    cloud       = ["AWS (basic)", "Azure (basic)", "Docker (familiar)"]
+    tools       = ["Git", "GitHub", "Postman", "Linux CLI", "VS Code"]
+    concepts    = ["OOP", "Microservices", "Distributed Systems",
+                   "Client-Server", "REST", "CI/CD", "Agile"]
+    currently   = ["LangChain", "LLM APIs", "AI Agents", "Docker"]
+```
+
+<br/>
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0d1117)
+
+**Backend & APIs**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=00FF41&labelColor=0d1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117)
+![REST](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white&labelColor=0d1117)
+![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d1117)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black&labelColor=0d1117)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117)
 
 ---
 
-## 🚀 Featured Projects
+## `~/projects` 🚀
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🍯 **Agentic Honey-Pot** | Distributed multi-module backend with REST APIs, retry logic & real-time monitoring. 90%+ accuracy | Python, Django/FastAPI, Linux |
-| 🚗 **AI Vehicle Loitering Detector** 🥇 | Real-time YOLO pipeline — 94%+ accuracy, 35% lower false positives. Best Paper ICAISDT 2026 | Python, YOLO, OpenCV |
-| 🆘 **SOS Android App** | GPS-integrated Java backend, sub-3s alert latency across 15+ devices | Java, Android SDK, GPS API |
-| 📊 **Academic Performance System** | Python/MySQL backend with 50% faster retrieval via schema redesign | Python, MySQL, REST APIs |
+### 🍯 Agentic Honey-Pot
+
+```
+$ ./run.py --module all
+  [✔] Detection Engine    → online
+  [✔] AI Agent            → online
+  [✔] REST API Gateway    → online
+  [✔] Dashboard           → online
+  [✔] Accuracy            → 90%+
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=00FF41&labelColor=0d1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0d1117)
 
 ---
 
-## 📚 Currently Learning
+### 🚗 AI Vehicle Loitering Detector — `🥇 Best Paper ICAISDT 2026`
 
-🔭 LangChain · LLM API Integration · Docker & CI/CD · Microservice Patterns
+```
+$ python detect.py --input live_feed
+  [✔] Detection Accuracy  → 94%+
+  [✔] False Positive Rate → -35%
+  [✔] Processing Mode     → real-time
+  [🏆] Award              → Best Paper ICAISDT 2026
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black&labelColor=0d1117)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white&labelColor=0d1117)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0d1117)
 
 ---
 
-<p align="center"><em>"Build things. Break things. Learn faster."</em></p>
+### 🆘 SOS Android App
+
+```
+$ adb run SOS.apk --test-devices 15
+  [✔] Alert Latency       → < 3 seconds
+  [✔] GPS Integration     → active
+  [✔] Device Coverage     → 15+ configs
+  [✔] Architecture        → event-driven client-server
+```
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=0d1117)
+
+---
+
+### 📊 Academic Performance System
+
+```
+$ python manage.py benchmark
+  [✔] Query Speed         → +50% faster
+  [✔] Data Pipeline       → automated
+  [✔] Reporting APIs      → active
+  [✔] Schema              → redesigned + indexed
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white&labelColor=0d1117)
+
+---
+
+## `~/stats` 📊
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gayathri14-07&theme=tokyonight" width="98%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gayathri14-07&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gayathri14-07&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gayathri14-07&theme=tokyonight" width="32%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Gayathri14-07&theme=tokyonight&hide_border=true&border_radius=5" width="60%"/>
+
+</div>
+
+---
+
+## `~/currently-learning` 🔭
+
+```bash
+$ cat learning_queue.txt
+  → LangChain & LLM API Integration
+  → AI Agents & Prompt Engineering
+  → Docker & CI/CD Pipelines
+  → Microservice Patterns at Scale
+```
+
+---
+
+## `~/certifications` 📜
+
+```bash
+$ ls certs/
+  ├── Python_Infosys_Springboard.pdf
+  ├── MongoDB_MongoDB_Inc.pdf
+  ├── DBMS_NPTEL_IIT_Kharagpur.pdf
+  ├── Data_Analytics_Coursera.pdf
+  └── Programming_Logic_C_BHC.pdf
+```
+---
+## `~/highlights` 🏆
+
+```bash
+$ cat achievements.log
+[2026] 🥇 Best Paper Award     → ICAISDT 2026 International AI Conference
+[2026] 🛠  India AI Buildathon  → GUVI & HCL
+[2026] 📊 Deloitte Simulation  → Data Analytics (Forage)
+[2026] 🏆 1st Prize            → Webfest'25, Holy Cross College
+[2026] 🚀 Production Apps      → 4 apps deployed from scratch
+[2026] 🎖  1st Prize            → Technical Connection, MCA Assoc. BHC
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00FF41&height=2&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=150&section=footer&text=%22Build.%20Break.%20Learn.%20Repeat.%22&fontColor=00FF41&fontSize=22&fontAlignY=65&animation=twinkling&fontFamily=Courier%20New"/>
+
+</div>
