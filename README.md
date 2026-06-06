@@ -2,9 +2,11 @@
 <h1 align="center">👋 Hi, I'm Gayathri V</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3¢er=true&vCenter=true&width=500&lines=Python+%7C+Java+%7C+Backend+Engineer;REST+APIs+%7C+Distributed+Systems;AI+%2F+ML+Enthusiast+%7C+MCA+Graduate" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Python+%7C+Java+%7C+Backend+Engineer;REST+APIs+%7C+Distributed+Systems;AI+%2F+ML+Enthusiast+%7C+MCA+Graduate" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  📍 Thanjavur, India &nbsp;•&nbsp; MCA Graduate (CGPA 8.36) &nbsp;•&nbsp; Open to opportunities
 </p>
 
 <p align="center">
