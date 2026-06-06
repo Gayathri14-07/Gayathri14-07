@@ -1,8 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20&height=220&section=header&text=Gayathri%20V&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Builder%20%7C%20MCA%20Graduate&descAlignY=55&descAlign=50&stroke=9D00FF&strokeWidth=2)
+<h1 align="center">👋 Hi, I'm Gayathri V</h1>
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&pause=800&color=9D00FF&center=true&vCenter=true&width=650&lines=%24+whoami+%3A%3A+Gayathri+V;%24+cat+skills.txt+%7C+grep+backend;+%E2%86%92+Python+%7C+Java+%7C+Django+%7C+FastAPI;%24+./deploy.sh+--env+production;+%E2%86%92+4+apps+shipped+%E2%9C%94;%24+python+train.py+--model+YOLO;+%E2%86%92+94%25+accuracy+%7C+Best+Paper+2026+%F0%9F%8F%86" alt="Typing SVG" />
+
+<h3 align="center">
+Sostware Engineer | Data Analyst |AI Builder | MCA Graduate
+</h3>
+
+<p align="center">
+Passionate about building AI-powered products,
+scalable backend systems, and intelligent automation solutions.
+🌍 India • 💼 Open to Opportunities • 🚀 Building Real-World Projects
+</p>
+
+<p align="center">
+
+🚀 Backend Development • 🤖 AI Engineering • 📊 Data Analytics
+
+</p>
 
 <br/>
 
