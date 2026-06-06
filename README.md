@@ -19,8 +19,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
 ## `~/highlights` 🏆
@@ -35,9 +33,7 @@ $ cat achievements.log
 [2026] 🎖  1st Prize            → Technical Connection, MCA Assoc. BHC
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20&height=3&section=header"/>
 
 ## `~/skills` 🛠
 
@@ -55,7 +51,7 @@ class GayathriV:
 ```
 
 <br/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20&height=3&section=header"/>
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
@@ -94,9 +90,8 @@ class GayathriV:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20&height=3&section=header"/>
 
 ## `~/projects` 🚀
 
@@ -151,9 +146,7 @@ $ python manage.py benchmark
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white&labelColor=0d1117)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20&height=3&section=header"/>
 
 ## `~/stats` 📊
 
@@ -171,9 +164,7 @@ $ python manage.py benchmark
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20&height=3&section=header"/>
 
 ## `~/contribution-graph` 🐍
 
@@ -187,10 +178,7 @@ $ python manage.py benchmark
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20&height=3&section=header"/>
 ## `~/now-playing` 🎵
 
 <div align="center">
@@ -199,10 +187,7 @@ $ python manage.py benchmark
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20&height=3&section=header"/>
 ## `~/quote` 💬
 
 <div align="center">
@@ -211,9 +196,7 @@ $ python manage.py benchmark
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20&height=3&section=header"/>
 
 ## `~/currently-learning` 🔭
 
@@ -249,9 +232,7 @@ $ ls certs/
   └── Programming_Logic_C_BHC.pdf
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20&height=3&section=header"/>
 
 <div align="center">
 
