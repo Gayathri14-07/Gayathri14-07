@@ -164,6 +164,38 @@ $ python manage.py benchmark
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,19,20&height=3&section=header"/>
 
+### 💧 Water Quality Prediction | Machine Learning
+
+**Predicting Water Safety Using Logistic Regression**
+
+Developed a machine learning classification model to predict whether a water sample is classified as Safe or Unsafe based on four water-quality parameters.
+
+**Key Features**
+- Analyzed pH, Total Dissolved Solids (TDS), turbidity, and temperature.
+- Applied feature scaling using StandardScaler.
+- Built a Logistic Regression classification model.
+- Evaluated model performance using accuracy, confusion matrix, precision, recall, and F1-score.
+
+**Reported Model Performance**
+- Test Accuracy: 99.99%
+- Test Samples: 20,160
+
+**Technology Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Project Links**
+
+[📂 GitHub Repository](https://github.com/Gayathri14-07/water-quality-prediction) | [📓 Jupyter Notebook](https://github.com/Gayathri14-07/water-quality-prediction/blob/main/Water_Quality_Prediction.ipynb) | [📊 Dataset](https://github.com/Gayathri14-07/water-quality-prediction/blob/main/water_quality_dataset1.csv)
+
+*Note: Model predictions are based on the dataset and should not replace laboratory water-quality testing.*
+
 ## `~/stats` 📊
 
 <div align="center">
